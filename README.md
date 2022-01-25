@@ -4,9 +4,15 @@ React Tech Calls é uma aplicação web com intuito de gerenciar chamados, assim
 
 ## Como rodar
 
-```console 
+```console
 git clone https://github.com/caiokronuz/react-tech-calls.git
+```
+```console
 cd react-tech-calls/
+```
+```console
 npm i
-npm run start
+```
+```console
+npm run start 
 ```
