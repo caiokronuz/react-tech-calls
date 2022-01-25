@@ -6,7 +6,7 @@ React Tech Calls é uma aplicação web com intuito de gerenciar chamados, assim
 
 ```console 
 git clone https://github.com/caiokronuz/react-tech-calls.git
-cd react-tech-calls
+cd react-tech-calls/
 npm i
 npm run start
 ```
